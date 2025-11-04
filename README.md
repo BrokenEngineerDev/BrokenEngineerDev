@@ -9,6 +9,8 @@ I’m a versatile software engineer with experience working on a wide range of e
 * 🌍  I'm based in Ukraine, Odesa
 * ✉️  You can contact me at [broken.engineer.dev@gmail.com](mailto:broken.engineer.dev@gmail.com)
 
+---
+
 ## 🧠 Languages & Tools
 
 <p align="left">
@@ -34,7 +36,7 @@ I’m a versatile software engineer with experience working on a wide range of e
 </p>
 
 
-### Socials
+## 🌐 Socials
 
 <p align="left">
   <a href="https://www.github.com/BrokenEngineerDev" target="_blank" rel="noreferrer">
@@ -64,11 +66,4 @@ I’m a versatile software engineer with experience working on a wide range of e
     </picture>
   </a>
 </p>
-
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/BrokenEngineerDev"><img src="https://github-readme-stats.vercel.app/api?username=BrokenEngineerDev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=444e59&bg_color=ffffff&hide_border=true&show_icons=true" alt="BrokenEngineerDev's GitHub stats" /></a>
 
