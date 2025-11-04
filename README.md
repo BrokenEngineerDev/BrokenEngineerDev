@@ -11,7 +11,7 @@ I’m a versatile software engineer with experience working on a wide range of e
 
 ## 🧠 Languages & Tools
 
-<p align="center">
+<p align="left">
 <a href="https://kotlinlang.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" title="Kotlin" width="48" height="48"/></a>
 <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" title="Java" width="48" height="48"/></a>
 <a href="https://spring.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" title="Spring Boot" width="48" height="48"/></a>
